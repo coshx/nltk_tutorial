@@ -1,6 +1,7 @@
 # stress-analyzer.py
 # analyzes stress patterns in poems
 # uses NLTK and the CMU pronounciation dictionary
+# usage: python stress_analyzer.py filename
 
 import sys
 import string
